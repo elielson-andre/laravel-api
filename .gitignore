@@ -4,6 +4,8 @@
 /public/storage
 /storage/*.key
 /vendor
+/database/migrations
+/database/seeders
 .env
 .env.backup
 .phpunit.result.cache
